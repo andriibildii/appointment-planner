@@ -8,8 +8,8 @@ The app consists of two pages: one to view and add contacts and one to view and 
 
 ------------
 ### Technologies
-:tw-1f4cc: React
-:tw-1f4cc: React Router v.6
+- React
+- React Router v.6
 
 ------------
 ## Project Requirements
@@ -103,5 +103,5 @@ The app consists of two pages: one to view and add contacts and one to view and 
 
 ------------
 ### In addition:
-:tw-1f4cd: created utilities file for ID generation
-:tw-1f4cd: added the ability to delete added contacts and appointments
+- created utilities file for ID generation
+- added the ability to delete added contacts and appointments
