@@ -7,6 +7,11 @@ In this project, using functional React components to create an app that manages
 The app consists of two pages: one to view and add contacts and one to view and add appointments.
 
 ------------
+[Deployed App](https://bildii-appointment-planner.netlify.app/ "Deployed App")
+
+https://bildii-appointment-planner.netlify.app/
+
+------------
 ### Technologies
 - React
 - React Router v.6
