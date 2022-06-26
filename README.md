@@ -1,8 +1,8 @@
 # Appointment Planner
 
-In this project, using functional React components to create an app that manages contacts and appointments. 
+In this project, using functional React components to create an app that manages contacts and appointments.
 
-![](https://static-assets.codecademy.com/skillpaths/react-redux/appointments-components.png)
+![](./appointment.png "Appointment Planner")
 
 The app consists of two pages: one to view and add contacts and one to view and add appointments.
 
@@ -18,6 +18,7 @@ https://bildii-appointment-planner.netlify.app/
 
 ------------
 ## Project Requirements
+![](https://static-assets.codecademy.com/skillpaths/react-redux/appointments-components.png)
 
 ### `App` Requirements:
 
